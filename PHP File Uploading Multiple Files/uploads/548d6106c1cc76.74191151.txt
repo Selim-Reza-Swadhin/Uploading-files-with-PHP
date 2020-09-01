@@ -1,0 +1,26 @@
+1 Introduction
+What are the benefits of using Chrome Developer Tools? A brief introduction to what these tools are, and how to access them.
+
+
+2 Elements
+The element explorer allows you to examine, edit and add to the DOM and styles. This feature is extremely useful for testing CSS styling without having to develop. We take a look at the most common uses of the elements tab in Chrome Developer Tools and how we can best use them.
+
+
+3 Elements
+The element explorer allows you to examine, edit and add to the DOM and styles. This feature is extremely useful for testing CSS styling without having to develop. We take a look at the most common uses of the elements tab in Chrome Developer Tools and how we can best use them.
+
+
+4 Resources 
+The resources tab lists and categorises any resources loaded into the page, so they can easily be looked up. This is also a great way to view syntax highlighted source code of any site pages.
+
+
+5 Scripts
+Developing in JavaScript? The scripts tab lets you view, edit and debug JavaScript code extremely easily. The insight this feature gives you into JavaScript code is fundamental to front end development.
+
+
+6 Audits 
+Need to speed up your website? The audits tab will run a full audit of any page and suggest ways to improve it. We take a brief look at an audit and some examples of audit suggestions.
+
+
+7 Console
+The console is an integral part of the Chrome Developer Tools and can be viewed from any tab. It shows logged data, JavaScript errors and parse errors. You can also run JavaScript, meaning you can write JavaScript within the browser to analyse behaviour and ultimatly save time.
